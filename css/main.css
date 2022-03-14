@@ -61,6 +61,11 @@ blockquote {
   text-align: left;
 }
 
+blockquote footer {
+  font-family: "PT Serif", serif;
+  font-size: 1.125rem;
+}
+
 main figure + p {
   font-family: "PT Serif", serif;
   font-weight: bold;
